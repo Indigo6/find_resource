@@ -5,6 +5,7 @@
 ## 泛资源平台（各种类别都可以先试试这个）
 
 1. PanDownload 自带的百度云资源搜索功能，我搜到过樊登读书会、喜马拉雅陈志武金融课和长投的理财训练营
+   + 默认的搜索引擎最好用，可惜现在没了，可以下载 “pandownload 搜索插件脚本” 里面的 “大力盘” 还挺全
 2. 自己的百度网盘
 3. 自己的本地资源 + Everything 搜索
 
@@ -35,9 +36,9 @@
 
 ## 录屏、截屏
 
-+ Win10 自带的 Xbox
-+ Bandicam Portable
-+ ScreenToGIf
++ Win10 自带的 Xbox 录屏
++ Bandicam Portable 录屏
++ ScreenToGIf 录屏成 gif
 + FSCapture 滚动截屏
 
 ## PDF 类
@@ -51,6 +52,10 @@
 + 天若批量文字识别
 + PDFelement 里带的 OCR
 + 自己写的 pdf_ocr ，基于 Tesseract-OCR 和 百度API，上传到了 github
+
+## 语音识别
+
++ 录音啦（飘云阁破解）
 
 ## 系统类
 
@@ -87,8 +92,9 @@
 + AudioExtractor 提取音频
 + Foobar2000 转换音频格式
 + HandBrake 压缩视频、转换视频格式
-+ GoldWave 编辑音频
++ GoldWave 编辑音频、去除声道
 + TimeM 制作字幕
++ VoiceMeeter Banana 分流、改变空间位置感
 
 
 
